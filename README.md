@@ -11,8 +11,6 @@
 - 因违规使用本项目产生的任何法律责任、版权纠纷，均由使用者自行承担。
 详细免责声明请参阅 [`DISCLAIMER.md`](./DISCLAIMER.md)。
 ---
-## 📺️TV station list
-https://zilong7728.github.io/Collect-IPTV/
 ## ⏱️Last Run Time
 <!-- Last Run Time --> 2026-04-21 04:40:18 CST
 ## 🔗Generated File Link
@@ -23,6 +21,3 @@ https://zilong7728.github.io/Collect-IPTV/
 1. 点击上方「下载 M3U/M3U8 文件」获取最新节目源
 2. 将文件导入支持 IPTV 的播放器（如 Kodi、PotPlayer、Perfect Player 等）
 3. 节目源每 4 小时自动更新，建议定期重新下载
-## ⭐️Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=zilong7728/Collect-IPTV&type=Date)](https://star-history.com/#zilong7728/Collect-IPTV&Date)
